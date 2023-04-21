@@ -1,0 +1,31 @@
+@media (max-width: 375px) {
+  main {
+    flex-direction: column;
+    height: 809px;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  .results {
+    width: 375px;
+    height: 100%;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+
+  h2 {
+    width: 300px;
+  }
+
+  .summary {
+    width: 375px;
+  }
+
+  .summary-info {
+    width: 300px;
+  }
+
+  .btn {
+    width: 300px;
+  }
+}
